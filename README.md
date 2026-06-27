@@ -28,3 +28,13 @@ Android Studio
 Kotlin
 Git
 GitHub
+
+## 動作画面
+
+### ユーザー一覧
+
+![ユーザー一覧](screenshots/list.png)
+
+### ユーザー詳細
+
+![ユーザー詳細](screenshots/detail.png)
